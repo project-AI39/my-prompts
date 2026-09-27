@@ -21,4 +21,4 @@
 - Premise: A Deterministic Specification is the Single Source of Truth that eliminates all ambiguity and guarantees semantically equivalent implementations regardless of implementer.
 - Governance: All changes must originate from the specification, and implementations must strictly conform to it.
 - Syntax: No root tags. Place each section in independent, top-level tags (internal format is flexible).
-- Tags: <category-identifier>...</category-identifier> (category and identifier are each in snake_case, separated by a hyphen)
+- Tags: <category-identifier>...</category-identifier> (category and identifier are each in camelCase, separated by a hyphen)
